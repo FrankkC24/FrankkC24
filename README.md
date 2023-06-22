@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+FrankkC" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+FrankkC!" />
 </p>
-<p align="center">C# / Node.js developer</p>
+<p align="center">.NET / Node.js developer</p>
 <h2 align="center">👨‍💻 Programming languages</h2>
 <p align="center">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -11,8 +12,8 @@
 </p>
 <h2 align="center">📦 Platforms</h2>
 <p align="center">
+        <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&amp;logo=.NET&amp;logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 <h2 align="center">🗄️ Databases</h2>
 <p align="center">
@@ -22,7 +23,7 @@
 </p>
 <h2 align="center">🧰 Frameworks and libraries</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&amp;logo=.NET&amp;logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=for-the-badge&amp;logo=.NET&amp;logoColor=white" alt=".NET Framework">
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js">
 </p>
 <h2 align="center">💻 Software and tools</h2>
@@ -34,12 +35,11 @@
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?&style=for-the-badge&logo=prettier&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vite-%23333333.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
 </p>
 
 <h2 align="center">🚀 Projects</h2>
-<h2 align="center">⛳️ Pet projects</h2>
 <h2 align="center">🤝 Socials</h2>
 <p align="center">
     <a href="https://t.me/frankkc24"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
