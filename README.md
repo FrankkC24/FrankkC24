@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+FrankkC!" />
 </p>
-<h4 align="center">.NET / Node.js developer</h4>
+<h4 align="center">Jr. Backend Developer</h4>
 <h2 align="center">👨‍💻 Programming languages</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#">
