@@ -91,8 +91,11 @@ API systems, workflow automation, and database-driven tools built with Node.js +
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FrankkC24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankkC24&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FrankkC24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
