@@ -95,10 +95,6 @@ API systems, workflow automation, and database-driven tools built with Node.js +
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrankkC24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrankkC24&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
