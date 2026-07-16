@@ -1,105 +1,258 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+👋,+I'm+FrankkC;Full+Stack+Developer;Game+Systems+Engineer;Multiplayer+Systems+Specialist" />
-</p>
+<div align="center">
 
-<h4 align="center">Full Stack Developer & Game Systems Engineer</h4>
+<img src="https://readme-typing-svg.herokuapp.com?color=F77431&center=true&vCenter=true&width=650&height=45&lines=Hey+%F0%9F%91%8B%2C+I'm+FrankkC;Full+Stack+Developer;Game+Systems+Engineer;Multiplayer+Systems+Specialist;Building+Systems+That+Survive+Real+Conditions" alt="Typing introduction" />
 
-<p align="center">
-Building server-authoritative systems, custom gameplay mechanics, and scalable backend architectures.<br>
-Focused on performance, realism, and production-ready code.
-</p>
+# Full Stack Developer & Game Systems Engineer
+
+Building **server-authoritative multiplayer systems**, custom gameplay mechanics,  
+and production-ready backend architectures.
+
+Focused on **performance, realism, scalability, and clean architecture**.
+
+<br>
+
+<a href="https://discord.com/users/795359213102694410">
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://t.me/frankkc24">
+    <img src="https://img.shields.io/badge/Telegram-frankkc24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<br><br>
+
+## Developer for SPOONI Development
+
+Building commercial game systems as part of the **SPOONI development team**.
+
+<br>
+
+<a href="https://spooni.pages.dev/">
+    <img src="https://img.shields.io/badge/SPOONI-Development%20Team-F77431?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=3A3A3A" alt="SPOONI Development" />
+</a>
+<a href="https://spooni.pages.dev/store?cat=scripts&sub=spooni">
+    <img src="https://img.shields.io/badge/VIEW-Products%20%20-F77431?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=3A3A3A" alt="Products I developed for SPOONI" />
+</a>
+
+</div>
+<br>
+<div align="center">
+
+## About Me
+</div>
+
+```text
+Game development    Server-authoritative multiplayer systems and custom mechanics
+Backend engineering APIs, persistence, permissions and scalable data flows
+Optimization        Network traffic, runtime cost and state synchronization
+Architecture        Modular, maintainable and framework-independent systems
+Production          Validation, security, diagnostics and robust cleanup
+````
+
+I specialize in building systems where behavior, synchronization, performance, and failure handling matter as much as the visible feature itself.
+
+Most of my game-development work is built for **RedM / Cfx.re**, using custom Lua systems, native game functionality, framework bridges, persistent data, and authoritative server logic.
 
 ---
 
-<h2 align="center">⚡ About Me</h2>
+<div align="center">
 
-<p align="center">
-🧠 Strong focus on <b>multiplayer systems & game physics</b><br>
-⚙️ Backend specialist with <b>Node.js + TypeScript</b><br>
-🎮 RedM / Cfx.re developer (Lua, natives, custom engines)<br>
-📊 Experience building real-world systems (accounting, data flows, roles)<br>
-🚀 Always pushing for <b>performance, scalability, and clean architecture</b>
-</p>
+## Primary Technologies
 
----
+<img src="https://skillicons.dev/icons?i=lua,ts,js,nodejs,react,express,postgres,mysql,mongodb,sqlite,docker,nginx,git,github,linux" alt="Technology stack" />
 
-<h2 align="center">👨‍💻 Tech Stack</h2>
+<br><br>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,react,nodejs,express,postgres,mysql,mongodb,sqlite,docker,nginx,git,linux" />
-</p>
+<img src="https://img.shields.io/badge/Lua-Primary%20Game%20Systems-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/RedM-Cfx.re%20Development-C00000?style=flat-square&logo=rockstargames&logoColor=white" alt="RedM" />
+<img src="https://img.shields.io/badge/TypeScript-Backend%20%26%20Full%20Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-APIs%20%26%20Services-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-Persistent%20Systems-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+</div>
 
 ---
 
-<h2 align="center">🧠 Core Expertise</h2>
+<div align="center">
 
-<p align="center">
-✔ Server-authoritative architectures<br>
-✔ Custom physics systems (gameplay-driven)<br>
-✔ Multiplayer synchronization & state handling<br>
-✔ Backend API design & database modeling<br>
-✔ Performance optimization (network & logic)<br>
-✔ Modular and scalable codebases
-</p>
+## Core Expertise
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Multiplayer Engineering
+
+* Server-authoritative architectures
+* State replication and snapshot synchronization
+* Input validation and permission enforcement
+* Concurrent session and lifecycle management
+* Client prediction and visual reconciliation
+* Network-aware performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### Game Systems
+
+* Custom gameplay-driven physics
+* Interactive world systems
+* Persistent entities and configuration
+* Native game engine integration
+* Framework-independent architecture
+* Immersive and realistic mechanics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Development
+
+* Node.js and TypeScript services
+* REST API design
+* PostgreSQL data modeling
+* Authentication and role systems
+* Transactional workflows
+* Logging, diagnostics and auditing
+
+</td>
+<td width="50%" valign="top">
+
+### Production Engineering
+
+* Modular and maintainable codebases
+* Runtime and resource optimization
+* Rate limiting and abuse prevention
+* Defensive cleanup and recovery
+* Framework compatibility layers
+* Production-ready configuration
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
 
-<p align="center">
+## Featured Game Systems
 
-<b>🎱 Advanced Billiards System (RedM)</b><br>
-Custom-built physics engine with full ball simulation, synchronized multiplayer gameplay, and configurable systems.<br>
-Server-authoritative logic with snapshot replication.<br>
+Commercial RedM systems developed as part of the
+**[SPOONI Development](https://spooni.pages.dev/)** team.
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🎱 Billiards
+
+A complete multiplayer billiards system featuring custom ball physics, authoritative simulation, snapshot replication, persistent tables, configurable matches, and synchronized gameplay.
+
+<br>
+
 <a href="https://spooni.pages.dev/store?package=7366070">
-    🛒 View Product
-</a><br>
+    <img src="https://img.shields.io/badge/View%20Product-F77431?style=for-the-badge&logo=shoppingcart&logoColor=white" alt="View Billiards product" />
+</a>
 
-<b>📊 SIGEFI</b><br>
-Full-stack financial system for small businesses.<br>
-Includes transaction tracking, accounting logic, roles (user/accountant/admin), and structured PostgreSQL data modeling.<br><br>
+</td>
+<td width="33%" align="center" valign="top">
 
-<b>⚙️ Backend & Automation Tools</b><br>
-API systems, workflow automation, and database-driven tools built with Node.js + TypeScript.
-</p>
+### 🏓 Ping Pong
 
----
+A synchronized table-tennis system with custom gameplay physics, multiplayer matches, bot support, persistent tables, spectators, and server-controlled match state.
 
-<h2 align="center">🛠️ Game Dev Focus</h2>
+<br>
 
-<p align="center">
-🎮 Custom gameplay systems (not framework-dependent)<br>
-📡 Server-client architecture with validation<br>
-🧩 Modular scripting (Lua + framework bridges)<br>
-🎯 Realistic mechanics over arcade shortcuts<br>
-</p>
+<a href="https://spooni.pages.dev/store?cat=scripts&sub=spooni&package=7431187">
+    <img src="https://img.shields.io/badge/View%20Product-F77431?style=for-the-badge&logo=shoppingcart&logoColor=white" alt="View Ping Pong product" />
+</a>
 
----
-<h2 align="center">🤝 Contact</h2>
+</td>
+<td width="33%" align="center" valign="top">
 
-<p align="center">
-    <a href="https://discord.com/users/795359213102694410">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://t.me/frankkc24">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-</p>
+### 🎯 Darts
 
----
+An immersive darts system with synchronized throws, authoritative scoring, configurable game modes, persistent boards, match sessions, and multiplayer validation.
 
-<h2 align="center">📊 GitHub Stats</h2>
+<br>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankkC24&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://spooni.pages.dev/store?cat=scripts&sub=spooni&package=7505614">
+    <img src="https://img.shields.io/badge/View%20Product-F77431?style=for-the-badge&logo=shoppingcart&logoColor=white" alt="View Darts product" />
+</a>
 
-<p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrankkC24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+The complete source code of these commercial systems is maintained in private repositories.
+
+</div>
 
 ---
 
-<p align="center">
-<i>"I don’t just build systems. I build how they behave under real conditions."</i>
-</p>
+<div align="center">
+
+## Other Work
+
+</div>
+
+Alongside game development, I have worked on full-stack and backend-oriented projects using **React, TypeScript, Node.js, Express, and PostgreSQL**.
+
+This includes **SIGEFI**, an academic financial-management project featuring transaction handling, role-based access, reporting, exports, backups, auditing, and relational data modeling.
+
+I also build internal APIs, automation tools, administrative workflows, permission systems, and database-driven services when required by a project.
+
+---
+
+<div align="center">
+
+## Engineering Principles
+
+</div>
+
+```text
+Authority over trust
+Validation over assumptions
+Measured performance over premature complexity
+Modular systems over tightly coupled features
+Real behavior over visual approximations
+Reliable cleanup over ideal execution paths
+```
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+<img src="https://streak-stats.demolab.com?user=FrankkC24&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrankkC24&theme=tokyonight" alt="GitHub profile activity summary" />
+
+<br><br>
+
+> Most of my Lua and commercial game-development work is hosted in private repositories, so GitHub's public statistics do not fully represent my actual technology usage.
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems that remain reliable when latency, concurrency, and real users get involved.
+
+<i>“I don't just build systems. I build how they behave under real conditions.”</i>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=FrankkC24&style=flat-square&color=F77431&label=Profile+Views" alt="Profile views" />
+
+</div>
